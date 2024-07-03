@@ -1,7 +1,0 @@
-C:\CSharp Traning\Assignments\Assignment1\program3\bin\Debug\program3.exe.config
-C:\CSharp Traning\Assignments\Assignment1\program3\bin\Debug\program3.exe
-C:\CSharp Traning\Assignments\Assignment1\program3\bin\Debug\program3.pdb
-C:\CSharp Traning\Assignments\Assignment1\program3\obj\Debug\program3.csproj.AssemblyReference.cache
-C:\CSharp Traning\Assignments\Assignment1\program3\obj\Debug\program3.csproj.CoreCompileInputs.cache
-C:\CSharp Traning\Assignments\Assignment1\program3\obj\Debug\program3.exe
-C:\CSharp Traning\Assignments\Assignment1\program3\obj\Debug\program3.pdb
