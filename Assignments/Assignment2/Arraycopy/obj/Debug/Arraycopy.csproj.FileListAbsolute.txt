@@ -1,7 +1,0 @@
-C:\CSharp Traning\Assignments\Assignment2\Arraycopy\bin\Debug\Arraycopy.exe.config
-C:\CSharp Traning\Assignments\Assignment2\Arraycopy\bin\Debug\Arraycopy.exe
-C:\CSharp Traning\Assignments\Assignment2\Arraycopy\bin\Debug\Arraycopy.pdb
-C:\CSharp Traning\Assignments\Assignment2\Arraycopy\obj\Debug\Arraycopy.csproj.AssemblyReference.cache
-C:\CSharp Traning\Assignments\Assignment2\Arraycopy\obj\Debug\Arraycopy.csproj.CoreCompileInputs.cache
-C:\CSharp Traning\Assignments\Assignment2\Arraycopy\obj\Debug\Arraycopy.exe
-C:\CSharp Traning\Assignments\Assignment2\Arraycopy\obj\Debug\Arraycopy.pdb

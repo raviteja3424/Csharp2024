@@ -1,7 +1,0 @@
-C:\CSharp Traning\Assignments\Assignment2\Reverseword\bin\Debug\Reverseword.exe.config
-C:\CSharp Traning\Assignments\Assignment2\Reverseword\bin\Debug\Reverseword.exe
-C:\CSharp Traning\Assignments\Assignment2\Reverseword\bin\Debug\Reverseword.pdb
-C:\CSharp Traning\Assignments\Assignment2\Reverseword\obj\Debug\Reverseword.csproj.AssemblyReference.cache
-C:\CSharp Traning\Assignments\Assignment2\Reverseword\obj\Debug\Reverseword.csproj.CoreCompileInputs.cache
-C:\CSharp Traning\Assignments\Assignment2\Reverseword\obj\Debug\Reverseword.exe
-C:\CSharp Traning\Assignments\Assignment2\Reverseword\obj\Debug\Reverseword.pdb

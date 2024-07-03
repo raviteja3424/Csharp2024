@@ -1,6 +1,0 @@
-C:\CSharp Traning\Assignments\Assignment2\Wordcomparision\bin\Debug\Wordcomparision.exe.config
-C:\CSharp Traning\Assignments\Assignment2\Wordcomparision\bin\Debug\Wordcomparision.exe
-C:\CSharp Traning\Assignments\Assignment2\Wordcomparision\bin\Debug\Wordcomparision.pdb
-C:\CSharp Traning\Assignments\Assignment2\Wordcomparision\obj\Debug\Wordcomparision.csproj.CoreCompileInputs.cache
-C:\CSharp Traning\Assignments\Assignment2\Wordcomparision\obj\Debug\Wordcomparision.exe
-C:\CSharp Traning\Assignments\Assignment2\Wordcomparision\obj\Debug\Wordcomparision.pdb

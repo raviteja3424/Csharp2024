@@ -1,7 +1,0 @@
-C:\CSharp Traning\Assignments\Assignment2\Wordlength\bin\Debug\Wordlength.exe.config
-C:\CSharp Traning\Assignments\Assignment2\Wordlength\bin\Debug\Wordlength.exe
-C:\CSharp Traning\Assignments\Assignment2\Wordlength\bin\Debug\Wordlength.pdb
-C:\CSharp Traning\Assignments\Assignment2\Wordlength\obj\Debug\Wordlength.csproj.AssemblyReference.cache
-C:\CSharp Traning\Assignments\Assignment2\Wordlength\obj\Debug\Wordlength.csproj.CoreCompileInputs.cache
-C:\CSharp Traning\Assignments\Assignment2\Wordlength\obj\Debug\Wordlength.exe
-C:\CSharp Traning\Assignments\Assignment2\Wordlength\obj\Debug\Wordlength.pdb

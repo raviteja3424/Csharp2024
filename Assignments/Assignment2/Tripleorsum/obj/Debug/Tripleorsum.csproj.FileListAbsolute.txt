@@ -1,7 +1,0 @@
-C:\CSharp Traning\Assignments\Assignment2\Tripleorsum\bin\Debug\Tripleorsum.exe.config
-C:\CSharp Traning\Assignments\Assignment2\Tripleorsum\bin\Debug\Tripleorsum.exe
-C:\CSharp Traning\Assignments\Assignment2\Tripleorsum\bin\Debug\Tripleorsum.pdb
-C:\CSharp Traning\Assignments\Assignment2\Tripleorsum\obj\Debug\Tripleorsum.csproj.AssemblyReference.cache
-C:\CSharp Traning\Assignments\Assignment2\Tripleorsum\obj\Debug\Tripleorsum.csproj.CoreCompileInputs.cache
-C:\CSharp Traning\Assignments\Assignment2\Tripleorsum\obj\Debug\Tripleorsum.exe
-C:\CSharp Traning\Assignments\Assignment2\Tripleorsum\obj\Debug\Tripleorsum.pdb
