@@ -1,2 +1,0 @@
-D:\CSharp Traning\Assignments\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.AssemblyReference.cache
-D:\CSharp Traning\Assignments\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
