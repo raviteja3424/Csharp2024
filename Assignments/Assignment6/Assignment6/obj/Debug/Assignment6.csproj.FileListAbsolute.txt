@@ -1,0 +1,7 @@
+D:\Csharp2024\Assignments\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+D:\Csharp2024\Assignments\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+D:\Csharp2024\Assignments\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+D:\Csharp2024\Assignments\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+D:\Csharp2024\Assignments\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+D:\Csharp2024\Assignments\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+D:\Csharp2024\Assignments\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.AssemblyReference.cache
