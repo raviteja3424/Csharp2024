@@ -1,0 +1,7 @@
+D:\Csharp2024\Assesements\CC4\CC4\bin\Debug\CC4.exe.config
+D:\Csharp2024\Assesements\CC4\CC4\bin\Debug\CC4.exe
+D:\Csharp2024\Assesements\CC4\CC4\bin\Debug\CC4.pdb
+D:\Csharp2024\Assesements\CC4\CC4\obj\Debug\CC4.csproj.AssemblyReference.cache
+D:\Csharp2024\Assesements\CC4\CC4\obj\Debug\CC4.csproj.CoreCompileInputs.cache
+D:\Csharp2024\Assesements\CC4\CC4\obj\Debug\CC4.exe
+D:\Csharp2024\Assesements\CC4\CC4\obj\Debug\CC4.pdb
