@@ -1,0 +1,7 @@
+D:\Traning2024\Assessments\SQLAssessments\CC2\Employee_Details\Employee_Details\bin\Debug\Employee_Details.exe.config
+D:\Traning2024\Assessments\SQLAssessments\CC2\Employee_Details\Employee_Details\bin\Debug\Employee_Details.exe
+D:\Traning2024\Assessments\SQLAssessments\CC2\Employee_Details\Employee_Details\bin\Debug\Employee_Details.pdb
+D:\Traning2024\Assessments\SQLAssessments\CC2\Employee_Details\Employee_Details\obj\Debug\Employee_Details.csproj.AssemblyReference.cache
+D:\Traning2024\Assessments\SQLAssessments\CC2\Employee_Details\Employee_Details\obj\Debug\Employee_Details.csproj.CoreCompileInputs.cache
+D:\Traning2024\Assessments\SQLAssessments\CC2\Employee_Details\Employee_Details\obj\Debug\Employee_Details.exe
+D:\Traning2024\Assessments\SQLAssessments\CC2\Employee_Details\Employee_Details\obj\Debug\Employee_Details.pdb
