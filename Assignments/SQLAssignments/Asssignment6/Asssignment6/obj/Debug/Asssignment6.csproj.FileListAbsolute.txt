@@ -1,0 +1,7 @@
+D:\Traning2024\Assignments\SQLAssignments\Asssignment6\Asssignment6\bin\Debug\Asssignment6.exe.config
+D:\Traning2024\Assignments\SQLAssignments\Asssignment6\Asssignment6\bin\Debug\Asssignment6.exe
+D:\Traning2024\Assignments\SQLAssignments\Asssignment6\Asssignment6\bin\Debug\Asssignment6.pdb
+D:\Traning2024\Assignments\SQLAssignments\Asssignment6\Asssignment6\obj\Debug\Asssignment6.csproj.AssemblyReference.cache
+D:\Traning2024\Assignments\SQLAssignments\Asssignment6\Asssignment6\obj\Debug\Asssignment6.csproj.CoreCompileInputs.cache
+D:\Traning2024\Assignments\SQLAssignments\Asssignment6\Asssignment6\obj\Debug\Asssignment6.exe
+D:\Traning2024\Assignments\SQLAssignments\Asssignment6\Asssignment6\obj\Debug\Asssignment6.pdb

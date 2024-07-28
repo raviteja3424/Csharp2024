@@ -1,0 +1,2 @@
+D:\Traning2024\Hands on\Animation.Html\Animation.Html\obj\Debug\Animation.Html.csproj.AssemblyReference.cache
+D:\Traning2024\Hands on\Animation.Html\Animation.Html\obj\Debug\Animation.Html.csproj.CoreCompileInputs.cache

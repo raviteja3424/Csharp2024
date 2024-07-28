@@ -1,0 +1,46 @@
+--Normalization
+------------------
+
+create table clients
+(
+  clientno varchar(10) primary key,
+  cname varchar(20) not null
+);
+
+create table properties
+(
+  propertyno varchar(10) primary key,
+  paddress varchar(100) not null,
+  ownerno varchar(5) not null,
+  oname varchar(50) not null
+);
+
+create table rentals
+(
+  clientno varchar(10),
+  propertyno varchar(10),
+  rentstart date,
+  renfinish date,
+  rent decimal(10,2),
+  primary key(clientno,propertyno),
+  foreign key(clientno) references clients(clientno),
+  foreign key (propertyno) references properties(propertyno)
+  
+);
+
+insert into clients values ('CR76', 'JOHN KEY'),
+                           ('CR56', 'ALINE STEWART');
+
+insert into properties values ('PG4','6 LAWRENCE ST,GLASGOW','C040','TINA MURPHY'),
+                              ('PG16','5 NOVER D,GLASGOW','C093','TONY SHAW'),
+			      ('PG36','2 MANOR ROAD,GLASGOW','C093','TONY SHAW');
+
+insert into rentals values ('CR76','PG4','2000-07-01','2001-08-31',350.00 ),
+                           ('CR76','PG16','2002-09-01','2002-09-01',450.00),
+		           ('CR56','PG4','1999-09-01','2000-06-10',350.00),
+			   ('CR56','PG36','2000-10-10','2001-12-01',370.00),
+			   ('CR56','PG16','2002-11-01','2003-08-01',450.00);
+
+select * from rentals;
+select * from properties;
+select * from clients;
