@@ -1,0 +1,6 @@
+C:\Users\ravitejabo\Downloads\demo\demo\bin\Debug\demo.exe.config
+C:\Users\ravitejabo\Downloads\demo\demo\bin\Debug\demo.exe
+C:\Users\ravitejabo\Downloads\demo\demo\bin\Debug\demo.pdb
+C:\Users\ravitejabo\Downloads\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+C:\Users\ravitejabo\Downloads\demo\demo\obj\Debug\demo.exe
+C:\Users\ravitejabo\Downloads\demo\demo\obj\Debug\demo.pdb

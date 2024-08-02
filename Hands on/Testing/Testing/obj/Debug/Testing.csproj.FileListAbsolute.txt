@@ -1,0 +1,7 @@
+C:\Users\ravitejabo\Downloads\Testing\Testing\bin\Debug\Testing.exe.config
+C:\Users\ravitejabo\Downloads\Testing\Testing\bin\Debug\Testing.exe
+C:\Users\ravitejabo\Downloads\Testing\Testing\bin\Debug\Testing.pdb
+C:\Users\ravitejabo\Downloads\Testing\Testing\obj\Debug\Testing.csproj.AssemblyReference.cache
+C:\Users\ravitejabo\Downloads\Testing\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\ravitejabo\Downloads\Testing\Testing\obj\Debug\Testing.exe
+C:\Users\ravitejabo\Downloads\Testing\Testing\obj\Debug\Testing.pdb
