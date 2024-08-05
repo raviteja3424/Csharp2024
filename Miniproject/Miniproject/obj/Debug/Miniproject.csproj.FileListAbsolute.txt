@@ -1,0 +1,7 @@
+D:\Traning2024\Miniproject\Miniproject\bin\Debug\project.exe.config
+D:\Traning2024\Miniproject\Miniproject\bin\Debug\project.exe
+D:\Traning2024\Miniproject\Miniproject\bin\Debug\project.pdb
+D:\Traning2024\Miniproject\Miniproject\obj\Debug\Miniproject.csproj.AssemblyReference.cache
+D:\Traning2024\Miniproject\Miniproject\obj\Debug\Miniproject.csproj.CoreCompileInputs.cache
+D:\Traning2024\Miniproject\Miniproject\obj\Debug\project.exe
+D:\Traning2024\Miniproject\Miniproject\obj\Debug\project.pdb
