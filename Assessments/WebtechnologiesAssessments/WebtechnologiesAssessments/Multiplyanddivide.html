@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Multiplication and Division</title>
+</head>
+<body>
+    <h1>Enter the Numbers</h1>
+    <p>Enter the 1st number: <input type="number" id="num1"></p>
+    <p>Enter the 2nd number: <input type="number" id="num2"></p>
+    <button onclick="multiply()">Multiply</button>
+    <button onclick="divide()">Divide</button>
+    <p id="result">The result is: </p>
+
+    <script>
+        function multiply() {
+            var num1 = document.getElementById('num1').value;
+            var num2 = document.getElementById('num2').value;
+            var result = num1 * num2;
+            document.getElementById('result').innerText = 'The result is: ' + result;
+        }
+
+        function divide() {
+            var num1 = document.getElementById('num1').value;
+            var num2 = document.getElementById('num2').value;
+            if (num2 == 0) {
+                document.getElementById('result').innerText = 'The result is: not allowed';
+            } else
+            {
+                var result = num1 / num2;
+                document.getElementById('result').innerText = 'The result is: ' + result;
+            }
+        }
+    </script>
+</body>
+</html>
+
