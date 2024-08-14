@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "CustomerDetailsByOrder";
+}
+
+<h2>CustomerDetailsByOrder</h2>
+@if (Model != null)
+{
+<div>
+    <h4>@Model.CompanyName</h4>
+    <p>Contact: @Model.ContactName</p>
+    <p>Address: @Model.Address</p>
+    <p>City: @Model.City</p>
+    <p>Country: @Model.Country</p>
+</div> }
+            else
+            {
+<p>No customer found for the given order ID.</p>}
+has context menu
+

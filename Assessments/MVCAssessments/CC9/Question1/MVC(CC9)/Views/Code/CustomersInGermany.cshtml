@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "CustomersInGermany";
+}
+
+<h2>CustomersInGermany</h2>
+<table>
+    <tr>
+        <th>Customer ID</th>
+        <th>Company Name</th>
+        <th>Country</th>
+    </tr>
+
+    @foreach (var customer in Model)
+    {
+<tr>
+    <td>@customer.CustomerID</td>
+    <td>@customer.CompanyName</td>
+    <td>@customer.Country</td>
+</tr>}
+</table>
+
